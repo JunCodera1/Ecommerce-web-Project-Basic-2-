@@ -39,7 +39,7 @@
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "dotenv": "^16.4.5",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
     "express-rate-limit": "^7.4.1",
     "framer-motion": "^11.11.11",
@@ -78,7 +78,7 @@
     "@eslint/js": "^9.11.1",
     "@types/react": "^18.3.10",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.2",
+    "@vitejs/plugin-react": "^4.5.2",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.11.1",
     "eslint-plugin-react": "^7.37.0",
@@ -87,6 +87,6 @@
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14",
-    "vite": "^5.4.8"
+    "vite": "^6.3.5"
   }
 }
