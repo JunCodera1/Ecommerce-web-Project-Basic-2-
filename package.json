@@ -33,7 +33,7 @@
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
     "crypto-js": "^4.2.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^17.2.3",
     "env": "^0.0.2",
     "express": "^4.21.1",
     "express-async-errors": "^3.1.1",
